@@ -1,12 +1,13 @@
 import styles from "./NavBar.module.css";
 import CartWidget from "../CartWidget/CartWidget";
+import logo from "../../../public/rg.ico"
 
 function NavBar() {
   return (
     <div className={styles.divNavBar}>
       <a href="#">
         <img
-          src="./public/rg.ico"
+          src={logo}
           alt="Logo-RG"
           className={styles.navBarLogo}
         />
