@@ -1,0 +1,28 @@
+.divNavBar {
+    display: flex;
+    justify-content: left;
+    background-color: rgb(54, 54, 54);
+    flex-wrap: wrap;
+}
+
+.navBarLogo {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 80px;
+    height: auto;
+}
+
+.navBar {
+    margin-top: 19px;
+    text-decoration: none;
+    color: rgb(217, 218, 226);
+    font-size: large;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.hrDivisor {
+    border-color: rgb(34, 34, 34);
+}

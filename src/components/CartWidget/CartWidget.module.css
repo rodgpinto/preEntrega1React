@@ -1,0 +1,12 @@
+.container {
+    position: fixed;
+    top: 13px;
+    right: 20px;
+}
+
+
+.ShoppingCartIcon {
+    color: rgb(127, 128, 155);
+    align-items: end;
+    
+}
